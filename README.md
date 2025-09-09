@@ -36,7 +36,7 @@ pip install requests rich
 
 To create new WPScan accounts:
 
-First go to the WPScan's (https://wpscan.com/register)[Register] page and wait until the loading finished. Then copy the `_hcp` cookie value and use it in the following command.
+First go to the WPScan's [Register](https://wpscan.com/register) page and wait until the loading finished. Then copy the `_hcp` cookie value and use it in the following command.
 
 ```bash
 python wpscan.py create-account --wpscan-hcp YOUR_HCP_TOKEN [options]
