@@ -1,7 +1,7 @@
 # WPScan Account Manager
 ![Banner](banner.png)
 
-A Python tool to automate the creation and management of WPScan accounts for bypassing the WPScan Free Plan API Limitations. This tool helps in creating multiple WPScan accounts and manages API token rotation for scanning WordPress websites.
+A Python tool to automate the creation and management of WPScan accounts. This tool helps in creating multiple WPScan accounts and manages API token rotation for scanning WordPress websites.
 
 ## Features
 
